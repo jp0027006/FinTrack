@@ -1,0 +1,527 @@
+{
+  "data": [
+    {
+      "name": "Scooter",
+      "icon": "ic_activa.png",
+      "type": 0
+
+    },
+    {
+      "name": "Salary",
+      "icon": "ic_salary.png",
+      "type": 1
+
+    },
+    {
+      "name": "Awards",
+      "icon": "ic_award.png",
+      "type": 1
+
+    },
+    {
+      "name": "Bags",
+      "icon": "ic_bag.png",
+      "type": 0
+
+    },
+    {
+      "name": "Basket Ball",
+      "icon": "ic_basketball.png",
+      "type": 0
+
+    },
+    {
+      "name": "Beer",
+      "icon": "ic_beer.png",
+      "type": 0
+
+    },
+    {
+      "name": "Bicycle",
+      "icon": "ic_bicycle.png",
+      "type": 0
+
+    },
+    {
+      "name": "Books",
+      "icon": "ic_book.png",
+      "type": 0
+
+    },
+    {
+      "name": "Books",
+      "icon": "ic_book.png",
+      "type": 1
+
+    },
+    {
+      "name": "Bus",
+      "icon": "ic_bus.png",
+      "type": 0
+
+    },
+    {
+      "name": "Cafe",
+      "icon": "ic_cafe.png",
+      "type": 0
+
+    },
+    {
+      "name": "Cake",
+      "icon": "ic_cake_2.png",
+      "type": 0
+
+    },
+    {
+      "name": "Celebration",
+      "icon": "ic_cake.png",
+      "type": 0
+
+    },
+    {
+      "name": "Calculator",
+      "icon": "ic_calculator.png",
+      "type": 0
+
+    },
+    {
+      "name": "Camera",
+      "icon": "ic_camera.png",
+      "type": 0
+
+    },
+    {
+      "name": "Candy IceCream",
+      "icon": "ic_candy_icecream.png",
+      "type": 0
+
+    },
+    {
+      "name": "Candy",
+      "icon": "ic_candy.png",
+      "type": 0
+
+    },
+    {
+      "name": "Car",
+      "icon": "ic_car.png",
+      "type": 0
+
+    },
+    {
+      "name": "Carrom Game",
+      "icon": "ic_carrom.png",
+      "type": 0
+
+    },
+    {
+      "name": "Carrom Game",
+      "icon": "ic_carrom.png",
+      "type": 0
+
+    },
+    {
+      "name": "Category",
+      "icon": "ic_category.png",
+      "type": 0
+
+    },
+    {
+      "name": "Category",
+      "icon": "ic_category.png",
+      "type": 1
+
+    },
+    {
+      "name": "Chess",
+      "icon": "ic_chess.png",
+      "type": 0
+
+    },
+    {
+      "name": "Chocalate",
+      "icon": "ic_chocalate.png",
+      "type": 0
+
+    },
+    {
+      "name": "Christmas",
+      "icon": "ic_christmas.png",
+      "type": 0
+
+    },
+    {
+      "name": "Church",
+      "icon": "ic_churche.png",
+      "type": 0
+
+    },
+    {
+      "name": "Coffey",
+      "icon": "ic_coffie.png",
+      "type": 0
+
+    },
+    {
+      "name": "Computer",
+      "icon": "ic_computer.png",
+      "type": 0
+
+    },
+    {
+      "name": "CreditCard Bill",
+      "icon": "ic_creditcard_bill.png",
+      "type": 0
+
+    },
+    {
+      "name": "Degree-Sponsership",
+      "icon": "ic_degree.png",
+      "type": 1
+
+    },
+    {
+      "name": "Development",
+      "icon": "ic_develop.png",
+      "type": 0
+
+    },
+    {
+      "name": "Diamond",
+      "icon": "ic_diamond.png",
+      "type": 0
+
+    },
+    {
+      "name": "Dinner",
+      "icon": "ic_dinner.png",
+      "type": 0
+
+    },
+    {
+      "name": "Drinks",
+      "icon": "ic_drink.png",
+      "type": 0
+
+    },
+    {
+      "name": "Expense- Money",
+      "icon": "ic_expense.png",
+      "type": 0
+
+    },
+    {
+      "name": "Flights",
+      "icon": "ic_flight.png",
+      "type": 0
+
+    },
+    {
+      "name": "Non-Veg Food",
+      "icon": "ic_food_nonveg.png",
+      "type": 0
+
+    },
+    {
+      "name": "Food",
+      "icon": "ic_food.png",
+      "type": 0
+
+    },
+    {
+      "name": "Fruits",
+      "icon": "ic_friut.png",
+      "type": 0
+
+    },
+    {
+      "name": "Ludo-Game",
+      "icon": "ic_game_ludo.png",
+      "type": 0
+
+    },
+    {
+      "name": "Video Game",
+      "icon": "ic_games.png",
+      "type": 0
+
+    },
+    {
+      "name": "Home Rent",
+      "icon": "ic_home_rent.png",
+      "type": 0
+
+    },
+    {
+      "name": "Home Rent Income",
+      "icon": "ic_home_rent.png",
+      "type": 1
+
+    },
+    {
+      "name": "Gift",
+      "icon": "ic_gift.png",
+      "type": 0
+
+    },
+    {
+      "name": "Gift",
+      "icon": "ic_gift.png",
+      "type": 1
+
+    },
+    {
+      "name": "Gold",
+      "icon": "ic_gold.png",
+      "type": 0
+
+    },
+    {
+      "name": "Gold Income",
+      "icon": "ic_gold.png",
+      "type": 1
+
+    },
+    {
+      "name": "Guitar",
+      "icon": "ic_guitar.png",
+      "type": 0
+
+    },
+    {
+      "name": "Handicap chair",
+      "icon": "ic_handicap.png",
+      "type": 0
+
+    },
+    {
+      "name": "Helmet",
+      "icon": "ic_helmet.png",
+      "type": 0
+
+    },
+    {
+      "name": "Home",
+      "icon": "ic_home.png",
+      "type": 0
+
+    },
+    {
+      "name": "Hospital",
+      "icon": "ic_hospital.png",
+      "type": 0
+
+    },
+    {
+      "name": "Ice-Cream",
+      "icon": "ic_icecream.png",
+      "type": 0
+
+    },
+    {
+      "name": "Income",
+      "icon": "ic_income.png",
+      "type": 1
+
+    },
+    {
+      "name": "Interest",
+      "icon": "ic_interest.png",
+      "type": 0
+
+    },
+    {
+      "name": "Interest",
+      "icon": "ic_interest.png",
+      "type": 1
+
+    },
+    {
+      "name": "Jwellery",
+      "icon": "ic_jewerally.png",
+      "type": 0
+
+    },
+    {
+      "name": "Medical",
+      "icon": "ic_medical.png",
+      "type": 0
+
+    },
+    {
+      "name": "Mobile",
+      "icon": "ic_mobile.png",
+      "type": 0
+
+    },
+    {
+      "name": "Money Recieved",
+      "icon": "ic_money_income.png",
+      "type": 1
+
+    },
+    {
+      "name": "Movies",
+      "icon": "ic_movie.png",
+      "type": 0
+
+    },
+    {
+      "name": "Music",
+      "icon": "ic_music.png",
+      "type": 0
+
+    },
+    {
+      "name": "NewsPaper",
+      "icon": "ic_newspaper.png",
+      "type": 0
+
+    },
+    {
+      "name": "Other Income",
+      "icon": "ic_other_income.png",
+      "type": 1
+
+    },
+    {
+      "name": "Painting",
+      "icon": "ic_painting.png",
+      "type": 0
+
+    },
+    {
+      "name": "Party",
+      "icon": "ic_party.png",
+      "type": 0
+
+    },
+    {
+      "name": "Pets",
+      "icon": "ic_pet_cat.png",
+      "type": 0
+
+    },
+    {
+      "name": "Dog",
+      "icon": "ic_pet_dog.png",
+      "type": 0
+
+    },
+    {
+      "name": "Piggy",
+      "icon": "ic_piggy.png",
+      "type": 0
+
+    },
+    {
+      "name": "Piggy",
+      "icon": "ic_piggy.png",
+      "type": 1
+
+    },
+    {
+      "name": "Pizza",
+      "icon": "ic_pizza.png",
+      "type": 0
+
+    },
+    {
+      "name": "Plants",
+      "icon": "ic_plant.png",
+      "type": 0
+
+    },
+    {
+      "name": "Print",
+      "icon": "ic_print.png",
+      "type": 0
+
+    },
+    {
+      "name": "Race",
+      "icon": "ic_race.png",
+      "type": 0
+
+    },
+    {
+      "name": "Rewards",
+      "icon": "ic_reward.png",
+      "type": 1
+
+    },
+    {
+      "name": "Sale",
+      "icon": "ic_sale.png",
+      "type": 0
+
+    },
+    {
+      "name": "Saloon",
+      "icon": "ic_saloon.png",
+      "type": 0
+
+    },
+    {
+      "name": "School Bag",
+      "icon": "ic_school_bag.png",
+      "type": 0
+
+    },
+    {
+      "name": "Shoes",
+      "icon": "ic_shoes.png",
+      "type": 0
+
+    },
+    {
+      "name": "Shootings",
+      "icon": "ic_shooting.png",
+      "type": 0
+
+    },
+    {
+      "name": "Shopping Cart",
+      "icon": "ic_shopping_cart.png",
+      "type": 0
+
+    },
+    {
+      "name": "Swimming",
+      "icon": "ic_swimming.png",
+      "type": 0
+
+    },
+    {
+      "name": "Transportation",
+      "icon": "ic_truck.png",
+      "type": 0
+
+    },
+    {
+      "name": "TV",
+      "icon": "ic_tv.png",
+      "type": 0
+
+    },
+    {
+      "name": "Video",
+      "icon": "ic_video.png",
+      "type": 0
+
+    },
+    {
+      "name": "Wallet",
+      "icon": "ic_wallet.png",
+      "type": 0
+
+    },
+    {
+      "name": "Jacket",
+      "icon": "ic_jacket.png",
+      "type": 0
+
+    }
+
+  ]
+}
